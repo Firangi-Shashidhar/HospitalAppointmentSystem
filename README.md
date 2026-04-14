@@ -3,7 +3,7 @@
 The **Hospital Appointment Booking System** is a Spring Boot backend API that allows:  
 - **Patients** to book and manage appointments  
 - **Doctors** to manage schedules and approve/reject appointments  
-- **Admins** to oversee hospital operations, manage patients and doctors 
+- **Admins** to oversee hospital operations, manage patients & doctors 
 - All data handling is secured with **JWT authentication**  
 
 
